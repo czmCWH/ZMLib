@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZMLib_Example' do
+  pod 'ZMLib', :path => '../'
+
+  target 'ZMLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
