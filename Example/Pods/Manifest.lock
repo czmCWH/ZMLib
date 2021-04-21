@@ -1,0 +1,16 @@
+PODS:
+  - ZMLib (0.1.0)
+
+DEPENDENCIES:
+  - ZMLib (from `../`)
+
+EXTERNAL SOURCES:
+  ZMLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMLib: a83b2c304cce164e58077a26f1acbc60f8f6b87d
+
+PODFILE CHECKSUM: 13ff9434313d6c12b32f7b332ab956a50f465d2f
+
+COCOAPODS: 1.10.1

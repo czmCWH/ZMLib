@@ -1,0 +1,6 @@
+framework module ZMLib {
+  umbrella header "ZMLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
